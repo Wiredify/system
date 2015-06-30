@@ -5,8 +5,7 @@ The reason that we have this is to keep track of bugfix or enhancement
 
 The below is the future enhancement.
 
-
-* Save as draft
+* Save as draft #2
 * Preview
 * Comment function
 * Follow/Follower function
