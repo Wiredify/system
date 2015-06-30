@@ -5,7 +5,7 @@ The reason that we have this is to keep track of bugfix or enhancement
 
 The below is the future enhancement.
 
-* Enable mobile view
+* Enable mobile view - #1
 * Save as draft
 * Preview
 * Comment function
