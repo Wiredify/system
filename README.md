@@ -12,6 +12,9 @@ The below is the future enhancement.
 * Notify when user is followed, got comment or user's article is recommended - #3
 * If new log is there, make the channel bold
 * Put how many log that the user created on user's page
+* Show log count on the user(how many logs are contributed by the user)
+* Show added logs on user's page
+* Log Search
 
 ---
 
