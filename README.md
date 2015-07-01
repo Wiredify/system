@@ -8,7 +8,7 @@ The below is the future enhancement.
 * Save as draft - #2
 * Preview
 * Comment function
-* Follow/Follower function
+* Follow/Follower function - #4
 * Notify when user is followed, got comment or user's article is recommended - #3
 * If new log is there, make the channel bold
 * Put how many log that the user created on user's page
