@@ -5,7 +5,6 @@ The reason that we have this is to keep track of bugfix or enhancement
 
 The below is the future enhancement.
 
-* Save as draft - #2
 * Preview
 * Comment function
 * Follow/Follower function - #4
@@ -20,6 +19,7 @@ The below is the future enhancement.
 ---
 
 * [Completed] Enable mobile view - #1
+* [Completed] Save as draft - #2 
 
 
 
