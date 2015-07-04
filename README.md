@@ -6,7 +6,6 @@ The reason that we have this is to keep track of bugfix or enhancement
 The below is the future enhancement.
 
 * Preview
-* Comment function
 * Follow/Follower function - #4
 * Notify when user is followed, got comment or user's article is recommended - #3
 * If new log is there, make the channel bold
@@ -20,6 +19,7 @@ The below is the future enhancement.
 
 * [Completed] Enable mobile view - #1
 * [Completed] Save as draft - #2 
+* [Completed] Comment function - #8
 
 
 
