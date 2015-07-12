@@ -9,17 +9,16 @@ The below is the future enhancement.
 * Follow/Follower function - #4
 * Notify when user is followed, got comment or user's article is recommended - #3
 * If new log is there, make the channel bold
-* Put how many log that the user created on user's page
-* Show log count on the user(how many logs are contributed by the user)
-* Show added logs on user's page
-* Google photos link in markdown
 * Log Search
+* Stat/Access analytics
 
 ---
-
+* [Completed] Show added logs on user's page
+* [Completed] Put how many log that the user created on user's page
 * [Completed] Enable mobile view - #1
 * [Completed] Save as draft - #2 
 * [Completed] Comment function - #8
+* [Completed] Image uplader - #9
 
 
 
