@@ -11,6 +11,7 @@ The below is the future enhancement.
 * If new log is there, make the channel bold
 * Log Search
 * Stat/Access analytics
+* add fav/like 
 
 ---
 * [Completed] Show added logs on user's page
