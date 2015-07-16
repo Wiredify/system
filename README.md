@@ -7,7 +7,6 @@ The below is the future enhancement.
 
 
 * Follow/Follower function - #4
-* Notify when user is followed, got comment or user's article is recommended - #3
 * If new log is there, make the channel bold
 * Log Search
 * Stat/Access analytics
@@ -21,6 +20,7 @@ The below is the future enhancement.
 * [Completed] Comment function - #8
 * [Completed] Image uplader - #9
 * [Completed] Preview - #10
+* [Completed]  Notify when user is followed, got comment or user's article is recommended - #3
 
 
 
