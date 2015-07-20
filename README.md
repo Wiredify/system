@@ -5,14 +5,13 @@ The reason that we have this is to keep track of bugfix or enhancement
 
 The below is the future enhancement.
 
-
-* Follow/Follower function - #4
 * If new log is there, make the channel bold
-* Log Search
+* Log Search - #12
 * Stat/Access analytics
 * add fav/like 
 
 ---
+* [Completed] Follow/Follower function - #4
 * [Completed] Show added logs on user's page
 * [Completed] Put how many log that the user created on user's page
 * [Completed] Enable mobile view - #1
